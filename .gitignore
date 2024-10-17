@@ -1,0 +1,8 @@
+*.pyc
+.idea/
+data/
+cross_cls/
+cross_cls_original/
+cross_data/
+cross_domain/
+ViT-B-16.pt
